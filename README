@@ -1,0 +1,2 @@
+Testar com ./run.sh <N_MEDIAS> <N_AMOSTRAS> <PROBABILIDADE>
+  exemplo: ./run.sh 100 1000 0.5
